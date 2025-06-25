@@ -100,3 +100,4 @@ Schedule periodic scans using cron (Linux) or Task Scheduler (Windows).
 
 This File Integrity Checker is a practical and educational tool that serves the critical function of verifying file authenticity. By leveraging Python’s simplicity and powerful libraries, it provides a lightweight yet effective solution to monitor file changes. It can be extended into a full-fledged integrity monitoring system suitable for personal, academic, or professional environments. In a world where data breaches and file tampering are becoming increasingly common, tools like these are essential for ensuring digital trust and integrity.
 
+![Image](https://github.com/user-attachments/assets/588f4551-6e8e-4c06-8995-b667e429508a)
